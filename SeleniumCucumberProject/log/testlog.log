@@ -1,0 +1,72 @@
+2020-04-15 11:16:05,922 - nopCommerce -INFO - Launching browser
+2020-04-15 11:16:07,725 - nopCommerce -INFO - Opening URL
+2020-04-15 11:16:11,768 - nopCommerce -INFO - Providing user credentials
+2020-04-15 11:16:12,808 - nopCommerce -INFO - Logging in
+2020-04-15 11:16:37,229 - nopCommerce -INFO - Adding new customer
+2020-04-15 11:16:42,664 - nopCommerce -INFO - Adding new customer details
+2020-04-15 11:16:51,785 - nopCommerce -INFO - Saving new customer
+2020-04-15 11:17:02,471 - nopCommerce -INFO - Closing browser
+2020-04-15 11:17:06,140 - nopCommerce -INFO - Launching browser
+2020-04-15 11:17:07,360 - nopCommerce -INFO - Opening URL
+2020-04-15 11:17:09,914 - nopCommerce -INFO - Providing user credentials
+2020-04-15 11:17:10,783 - nopCommerce -INFO - Logging in
+2020-04-15 11:17:39,802 - nopCommerce -INFO - Searching customer using emailID
+2020-04-15 11:17:43,123 - nopCommerce -INFO - Launching browser
+2020-04-15 11:17:44,280 - nopCommerce -INFO - Opening URL
+2020-04-15 11:17:49,826 - nopCommerce -INFO - Providing user credentials
+2020-04-15 11:17:50,781 - nopCommerce -INFO - Logging in
+2020-04-15 11:18:18,236 - nopCommerce -INFO - Searching customer using name
+2020-04-15 11:18:18,453 - nopCommerce -INFO - Closing browser
+2020-04-15 11:43:45,694 - nopCommerce -INFO - Launching browser
+2020-04-15 11:43:47,041 - nopCommerce -INFO - Opening URL
+2020-04-15 11:43:49,182 - nopCommerce -INFO - Providing user credentials
+2020-04-15 11:43:49,828 - nopCommerce -INFO - Logging in
+2020-04-15 11:44:02,990 - nopCommerce -INFO - Adding new customer
+2020-04-15 11:44:06,820 - nopCommerce -INFO - Adding new customer details
+2020-04-15 11:44:13,770 - nopCommerce -INFO - Saving new customer
+2020-04-15 11:44:18,990 - nopCommerce -INFO - Closing browser
+2020-04-15 11:44:23,894 - nopCommerce -INFO - Launching browser
+2020-04-15 11:44:25,088 - nopCommerce -INFO - Opening URL
+2020-04-15 11:44:28,201 - nopCommerce -INFO - Providing user credentials
+2020-04-15 11:44:28,902 - nopCommerce -INFO - Logging in
+2020-04-15 11:44:48,628 - nopCommerce -INFO - Searching customer using emailID
+2020-04-15 11:44:48,765 - nopCommerce -INFO - Closing browser
+2020-04-15 11:44:51,952 - nopCommerce -INFO - Launching browser
+2020-04-15 11:44:53,135 - nopCommerce -INFO - Opening URL
+2020-04-15 11:44:57,439 - nopCommerce -INFO - Providing user credentials
+2020-04-15 11:44:58,174 - nopCommerce -INFO - Logging in
+2020-04-15 11:45:16,130 - nopCommerce -INFO - Searching customer using name
+2020-04-15 11:45:16,281 - nopCommerce -INFO - Closing browser
+2020-04-15 14:38:26,371 - nopCommerce -INFO - Launching browser
+2020-04-15 14:38:28,009 - nopCommerce -INFO - Opening URL
+2020-04-15 14:38:30,534 - nopCommerce -INFO - Providing user credentials
+2020-04-15 14:38:31,330 - nopCommerce -INFO - Logging in
+2020-04-15 14:38:45,903 - nopCommerce -INFO - Adding new customer
+2020-04-15 14:38:49,870 - nopCommerce -INFO - Adding new customer details
+2020-04-15 14:38:57,079 - nopCommerce -INFO - Saving new customer
+2020-04-15 14:39:02,714 - nopCommerce -INFO - Closing browser
+2020-04-15 14:40:28,738 - nopCommerce -INFO - Launching browser
+2020-04-15 14:40:30,373 - nopCommerce -INFO - Opening URL
+2020-04-15 14:40:35,557 - nopCommerce -INFO - Providing user credentials
+2020-04-15 14:40:37,022 - nopCommerce -INFO - Logging in
+2020-04-15 14:40:54,660 - nopCommerce -INFO - Adding new customer
+2020-04-15 14:40:59,176 - nopCommerce -INFO - Adding new customer details
+2020-04-15 14:41:06,993 - nopCommerce -INFO - Saving new customer
+2020-04-15 14:41:13,202 - nopCommerce -INFO - Closing browser
+2020-04-15 14:41:16,561 - nopCommerce -INFO - Launching browser
+2020-04-15 14:41:17,801 - nopCommerce -INFO - Opening URL
+2020-04-15 14:41:20,693 - nopCommerce -INFO - Providing user credentials
+2020-04-15 14:41:21,752 - nopCommerce -INFO - Logging in
+2020-04-15 14:41:29,304 - nopCommerce -INFO - Login passed
+2020-04-15 14:41:29,308 - nopCommerce -INFO - Logging out
+2020-04-15 14:41:33,904 - nopCommerce -INFO - Login passed
+2020-04-15 14:41:33,907 - nopCommerce -INFO - Closing browser
+2020-04-15 15:29:56,334 - nopCommerce -INFO - Launching browser
+2020-04-15 15:30:49,429 - nopCommerce -INFO - Launching browser
+2020-04-15 15:30:50,944 - nopCommerce -INFO - Opening URL
+2020-04-15 15:30:54,610 - nopCommerce -INFO - Providing user credentials
+2020-04-15 15:30:55,660 - nopCommerce -INFO - Logging in
+2020-04-15 15:31:04,098 - nopCommerce -INFO - Login passed
+2020-04-15 15:31:04,111 - nopCommerce -INFO - Logging out
+2020-04-15 15:31:08,472 - nopCommerce -INFO - Login passed
+2020-04-15 15:31:08,475 - nopCommerce -INFO - Closing browser
